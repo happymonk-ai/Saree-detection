@@ -8,4 +8,10 @@ To identify different parts of a saree and to identify it's colour , border , te
 
 To Create a simple code without any machine learning algorithms (if possible)
 
-## Current state of progresss
+## Current state of progress 
+
+### Data set 
+
+colour.csv 
+
+Dataset - Images of saree 
