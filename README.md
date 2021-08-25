@@ -18,4 +18,4 @@ Dataset - Images of saree
 
 ### Code
 
-colour detection.ipynb **jupyter notebook extension***
+colour detection.ipynb **- (jupyter notebook extension) **
