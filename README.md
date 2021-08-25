@@ -12,8 +12,10 @@ To Create a simple code without any machine learning algorithms (if possible)
 
 ### Data set 
 
-colour.csv 
+colors.csv 
 
 Dataset - Images of saree 
 
-### Code 
+### Code
+
+Saree colour detection .
