@@ -52,5 +52,8 @@ https://www.geeksforgeeks.org/multiple-color-detection-in-real-time-using-python
 https://emerj.com/ai-sector-overviews/artificial-intelligence-in-the-textile-industry-current-and-future-applications/
 
 
+https://github.com/codebrainz/color-names
+
+
 
 
