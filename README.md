@@ -15,3 +15,5 @@ To Create a simple code without any machine learning algorithms (if possible)
 colour.csv 
 
 Dataset - Images of saree 
+
+### Code 
