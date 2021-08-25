@@ -19,3 +19,11 @@ Dataset - Images of saree
 ### Code
 
 colour detection.ipynb   **-( jupyter notebook extension )**
+
+### Description 
+
+In the current state of the model I am trying to identify the color of the overall saree , the basic idea of this code is to extract the RGB array from the image and to match it with the colour.csv database and display the result accordingly .
+
+## Future work 
+
+
