@@ -34,7 +34,7 @@ To Create a bounding box which will display the main part of the saree and to ta
 
 ### saree border detection 
 
-To Create a Bounding box which will identily the border in the saree . To Train a tiny model which existing dataset of saree borders which will help in identifying  the boarder types . 
+To Create a Bounding box which will identily the border in the saree . To Train a tiny model with existing dataset of saree borders which will help in identifying  the saree boarder types . 
 
 
 
