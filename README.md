@@ -32,6 +32,10 @@ To Perform data annotation and the label it according to the 3 sections .
 
 To Create a bounding box which will display the main part of the saree and to take the average value of all the RGB arrays inside the bounding box and to follow the same process shown in color detection.ipynb code 
 
+### saree border detection 
+
+To Create a Bounding box which will identily the border in the saree . To Train a tiny model which exixting dataset of saree borders which will help in identifying  the boarder types . 
+
 
 
 ## Reference 
